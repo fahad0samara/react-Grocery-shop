@@ -3,6 +3,9 @@
 # React Grocery Shop 🛒
 
 React Grocery Shop is a modern, responsive web application that provides an intuitive platform for online grocery shopping. It is built using React and other web technologies to create a seamless and interactive shopping experience.
+![screencapture-localhost-5173-2024-11-16-07_12_35](https://github.com/user-attachments/assets/0a2592f5-1e76-46fb-b1b4-ec9ac6346c33)
+
+
 
 ## Features
 
